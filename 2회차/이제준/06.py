@@ -25,7 +25,7 @@ def movie_info(movies, genres):
 
         info.append(first)
 
-        return print(info)
+    return info
 
 
     # 밑의 문제는 장르가 하나씩 밖에 반환이 안 된다
